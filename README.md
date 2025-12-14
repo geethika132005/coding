@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/geethika132005/coding/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

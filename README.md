@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 ## Math
@@ -50,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/geethika132005/coding/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/geethika132005/coding/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

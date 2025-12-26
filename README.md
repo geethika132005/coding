@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/geethika132005/coding/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/geethika132005/coding/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->

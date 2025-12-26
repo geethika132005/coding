@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
+| [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/geethika132005/coding/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/geethika132005/coding/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |

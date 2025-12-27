@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/geethika132005/coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/geethika132005/coding/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/geethika132005/coding/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 ## Simulation
 |  |

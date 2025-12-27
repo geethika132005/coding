@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/geethika132005/coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/geethika132005/coding/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/geethika132005/coding/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |

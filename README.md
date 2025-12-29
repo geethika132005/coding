@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/geethika132005/coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
+| [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->

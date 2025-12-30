@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/geethika132005/coding/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/geethika132005/coding/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/geethika132005/coding/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/geethika132005/coding/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Depth-First Search
 |  |
 | ------- |

@@ -1,18 +1,18 @@
 #User function Template for python3
 class Solution:
     def subarraySum(self, arr, target):
-        l = 0
+        start = 0
         curr_sum = 0
 
-        for r in range(len(arr)):
-            curr_sum += arr[r]
+        for end in range(len(arr)):
+            curr_sum += arr[end]
 
-            while curr_sum > target and l <= r:
-                curr_sum -= arr[l]
-                l += 1
+            while curr_sum > target and start <= end:
+                curr_sum -= arr[start]
+                start += 1
 
             if curr_sum == target:
-                return [l + 1, r + 1]
+                return [start + 1, end + 1]  # 1-based indexing
 
         return [-1]
-        
+        # code here

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |
 | ------- |

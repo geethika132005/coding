@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/geethika132005/coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/geethika132005/coding/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/geethika132005/coding/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/geethika132005/coding/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/geethika132005/coding/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 ## Hash Table
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -125,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

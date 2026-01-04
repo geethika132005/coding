@@ -98,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/geethika132005/coding/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->

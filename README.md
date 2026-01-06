@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/geethika132005/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
+| [0812-largest-triangle-area](https://github.com/geethika132005/coding/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/geethika132005/coding/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
+| [0812-largest-triangle-area](https://github.com/geethika132005/coding/tree/master/0812-largest-triangle-area) |
 ## String
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/geethika132005/coding/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->

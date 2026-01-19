@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/geethika132005/coding/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/geethika132005/coding/tree/master/0125-valid-palindrome) |

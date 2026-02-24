@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/geethika132005/coding/tree/master/1030-matrix-cells-in-distance-order) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/geethika132005/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/geethika132005/coding/tree/master/0506-relative-ranks) |
 | [1030-matrix-cells-in-distance-order](https://github.com/geethika132005/coding/tree/master/1030-matrix-cells-in-distance-order) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/geethika132005/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/geethika132005/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Geometry
 |  |
 | ------- |

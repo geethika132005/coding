@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/geethika132005/coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
+| [0876-middle-of-the-linked-list](https://github.com/geethika132005/coding/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/geethika132005/coding/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/geethika132005/coding/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

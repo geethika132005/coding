@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/geethika132005/coding/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/geethika132005/coding/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/geethika132005/coding/tree/master/1108-defanging-an-ip-address) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/geethika132005/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/geethika132005/coding/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |

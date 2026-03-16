@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/geethika132005/coding/tree/master/1030-matrix-cells-in-distance-order) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/geethika132005/coding/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/geethika132005/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/geethika132005/coding/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/geethika132005/coding/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/geethika132005/coding/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/geethika132005/coding/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3110-score-of-a-string](https://github.com/geethika132005/coding/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/geethika132005/coding/tree/master/1603-design-parking-system) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/geethika132005/coding/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |

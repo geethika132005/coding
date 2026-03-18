@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/geethika132005/coding/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/geethika132005/coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/geethika132005/coding/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/geethika132005/coding/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/geethika132005/coding/tree/master/0216-combination-sum-iii) |

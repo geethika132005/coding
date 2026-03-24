@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/geethika132005/coding/tree/master/0506-relative-ranks) |
+| [0804-unique-morse-code-words](https://github.com/geethika132005/coding/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/geethika132005/coding/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/geethika132005/coding/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/geethika132005/coding/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/geethika132005/coding/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/geethika132005/coding/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/geethika132005/coding/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/geethika132005/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/geethika132005/coding/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/geethika132005/coding/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/geethika132005/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Divide and Conquer
 |  |

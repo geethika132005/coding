@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/geethika132005/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/geethika132005/coding/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/geethika132005/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/geethika132005/coding/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |

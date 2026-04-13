@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/geethika132005/coding/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/geethika132005/coding/tree/master/0561-array-partition) |
 | [0804-unique-morse-code-words](https://github.com/geethika132005/coding/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/geethika132005/coding/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/geethika132005/coding/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/geethika132005/coding/tree/master/0561-array-partition) |
 | [1030-matrix-cells-in-distance-order](https://github.com/geethika132005/coding/tree/master/1030-matrix-cells-in-distance-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/geethika132005/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/geethika132005/coding/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/geethika132005/coding/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Depth-First Search
 |  |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geethika132005/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/geethika132005/coding/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/geethika132005/coding/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/geethika132005/coding/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/geethika132005/coding/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/geethika132005/coding/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/geethika132005/coding/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/geethika132005/coding/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |

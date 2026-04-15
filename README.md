@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/geethika132005/coding/tree/master/0006-zigzag-conversion) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/geethika132005/coding/tree/master/0125-valid-palindrome) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/geethika132005/coding/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/geethika132005/coding/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |

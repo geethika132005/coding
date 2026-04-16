@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geethika132005/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/geethika132005/coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/geethika132005/coding/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/geethika132005/coding/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/geethika132005/coding/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/geethika132005/coding/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/geethika132005/coding/tree/master/0509-fibonacci-number) |
 ## Backtracking

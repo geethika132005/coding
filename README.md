@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/geethika132005/coding/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/geethika132005/coding/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/geethika132005/coding/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/geethika132005/coding/tree/master/0093-restore-ip-addresses) |

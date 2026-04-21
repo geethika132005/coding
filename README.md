@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/geethika132005/coding/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/geethika132005/coding/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/geethika132005/coding/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/geethika132005/coding/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/geethika132005/coding/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/geethika132005/coding/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/geethika132005/coding/tree/master/0561-array-partition) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/geethika132005/coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

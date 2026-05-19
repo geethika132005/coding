@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethika132005/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/geethika132005/coding/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/geethika132005/coding/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/geethika132005/coding/tree/master/0064-minimum-path-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/geethika132005/coding/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/geethika132005/coding/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethika132005/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/geethika132005/coding/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/geethika132005/coding/tree/master/0345-reverse-vowels-of-a-string) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/geethika132005/coding/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/geethika132005/coding/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

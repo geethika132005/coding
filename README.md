@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethika132005/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/geethika132005/coding/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/geethika132005/coding/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/geethika132005/coding/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/geethika132005/coding/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geethika132005/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/geethika132005/coding/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/geethika132005/coding/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/geethika132005/coding/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/geethika132005/coding/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/geethika132005/coding/tree/master/0093-restore-ip-addresses) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/geethika132005/coding/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/geethika132005/coding/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/geethika132005/coding/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |

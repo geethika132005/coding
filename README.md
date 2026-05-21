@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/geethika132005/coding/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/geethika132005/coding/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/geethika132005/coding/tree/master/0607-sales-person) |
+| [1148-article-views-i](https://github.com/geethika132005/coding/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/geethika132005/coding/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/geethika132005/coding/tree/master/1587-bank-account-summary-ii) |
 ## Memoization

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/geethika132005/coding/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/geethika132005/coding/tree/master/1051-height-checker) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/geethika132005/coding/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/geethika132005/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/geethika132005/coding/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/geethika132005/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/geethika132005/coding/tree/master/0812-largest-triangle-area) |
 | [1030-matrix-cells-in-distance-order](https://github.com/geethika132005/coding/tree/master/1030-matrix-cells-in-distance-order) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/geethika132005/coding/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/geethika132005/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/geethika132005/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

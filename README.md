@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/geethika132005/coding/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/geethika132005/coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |
+| [0299-bulls-and-cows](https://github.com/geethika132005/coding/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/geethika132005/coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/geethika132005/coding/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/geethika132005/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/geethika132005/coding/tree/master/0299-bulls-and-cows) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/geethika132005/coding/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1603-design-parking-system](https://github.com/geethika132005/coding/tree/master/1603-design-parking-system) |
 ## Two Pointers

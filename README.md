@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/geethika132005/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/geethika132005/coding/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/geethika132005/coding/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/geethika132005/coding/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/geethika132005/coding/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/geethika132005/coding/tree/master/0131-palindrome-partitioning) |

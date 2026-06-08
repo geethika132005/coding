@@ -200,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/geethika132005/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/geethika132005/coding/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/geethika132005/coding/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/geethika132005/coding/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/geethika132005/coding/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 ## Matrix
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/geethika132005/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geethika132005/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/geethika132005/coding/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/geethika132005/coding/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/geethika132005/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geethika132005/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/geethika132005/coding/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/geethika132005/coding/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search
 |  |

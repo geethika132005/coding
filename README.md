@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/geethika132005/coding/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/geethika132005/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/geethika132005/coding/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/geethika132005/coding/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/geethika132005/coding/tree/master/0561-array-partition) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/geethika132005/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/geethika132005/coding/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/geethika132005/coding/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/geethika132005/coding/tree/master/0804-unique-morse-code-words) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/geethika132005/coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/geethika132005/coding/tree/master/0496-next-greater-element-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/geethika132005/coding/tree/master/0496-next-greater-element-i) |
 ## Number Theory
 |  |
 | ------- |

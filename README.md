@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/geethika132005/coding/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/geethika132005/coding/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/geethika132005/coding/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/geethika132005/coding/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/geethika132005/coding/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/geethika132005/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/geethika132005/coding/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/geethika132005/coding/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/geethika132005/coding/tree/master/1603-design-parking-system) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/geethika132005/coding/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/geethika132005/coding/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 | [1030-matrix-cells-in-distance-order](https://github.com/geethika132005/coding/tree/master/1030-matrix-cells-in-distance-order) |

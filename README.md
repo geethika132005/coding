@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/geethika132005/coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/geethika132005/coding/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/geethika132005/coding/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/geethika132005/coding/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/geethika132005/coding/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
@@ -328,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/geethika132005/coding/tree/master/0406-queue-reconstruction-by-height) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/geethika132005/coding/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

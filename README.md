@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/geethika132005/coding/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/geethika132005/coding/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/geethika132005/coding/tree/master/1603-design-parking-system) |
 ## Database
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/geethika132005/coding/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/geethika132005/coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/geethika132005/coding/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/geethika132005/coding/tree/master/0496-next-greater-element-i) |
 ## Binary Search Tree
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/geethika132005/coding/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/geethika132005/coding/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |

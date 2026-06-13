@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/geethika132005/coding/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/geethika132005/coding/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/geethika132005/coding/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/geethika132005/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/geethika132005/coding/tree/master/0463-island-perimeter) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/geethika132005/coding/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/geethika132005/coding/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/geethika132005/coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/geethika132005/coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika132005/coding/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/geethika132005/coding/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/geethika132005/coding/tree/master/0406-queue-reconstruction-by-height) |
 | [0506-relative-ranks](https://github.com/geethika132005/coding/tree/master/0506-relative-ranks) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/geethika132005/coding/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/geethika132005/coding/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/geethika132005/coding/tree/master/0349-intersection-of-two-arrays) |
 | [0821-shortest-distance-to-a-character](https://github.com/geethika132005/coding/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/geethika132005/coding/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/geethika132005/coding/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/geethika132005/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Geometry
 |  |

@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/geethika132005/coding/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/geethika132005/coding/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/geethika132005/coding/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/geethika132005/coding/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/geethika132005/coding/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/geethika132005/coding/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/geethika132005/coding/tree/master/0812-largest-triangle-area) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/geethika132005/coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/geethika132005/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/geethika132005/coding/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/geethika132005/coding/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/geethika132005/coding/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/geethika132005/coding/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/geethika132005/coding/tree/master/0771-jewels-and-stones) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/geethika132005/coding/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/geethika132005/coding/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/geethika132005/coding/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/geethika132005/coding/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/geethika132005/coding/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/geethika132005/coding/tree/master/2011-final-value-of-variable-after-performing-operations) |
